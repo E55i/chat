@@ -1,7 +1,7 @@
 import {initializeApp} from 'firebase/app'
 import {getFirestore} from 'firebase/firestore'
 
-// Tähän Config-tiedot
+//tähän config-tiedot
 
 initializeApp(firebaseConfig)
 
